@@ -2,7 +2,7 @@ import pyautogui as pag
 from time import sleep
 
 print("-"* 80)
-print("                       WELCOME TO MESSAGE SPAMMER         ")
+print("                       WELCOME TO Rapid Type        ")
 print("-"*80)
 
 print("OPEN ANY MESSAGING APP AND OPEN THE CONTACT YOU WANT TO SEND THE MESSAGE")
