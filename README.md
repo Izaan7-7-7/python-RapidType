@@ -1,6 +1,6 @@
 # Rapid Type
 
-A simple Python script that automatically types and sends messages using the `pyautogui` library.
+A simple Python script that automates typing and sends messages using the `pyautogui` library.
 
 ## Requirements
 
@@ -9,4 +9,4 @@ A simple Python script that automatically types and sends messages using the `py
 
 ## Disclaimer
 
-This project was created for educational purposes only.
+This project was created for educational purposes only not to harm anyone!
