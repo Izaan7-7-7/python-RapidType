@@ -6,7 +6,7 @@ A simple Python script that automates typing and sends messages using the `pyaut
 
 * Python 3
 * pyautogui
-install using pip install pyautogui
+
 
 ## Disclaimer
 
